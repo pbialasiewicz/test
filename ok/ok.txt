@@ -1,2 +1,0 @@
-ok
-meterpreter session 1 opened
